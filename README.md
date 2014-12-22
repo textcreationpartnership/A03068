@@ -35,9 +35,15 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Body#####
-Mariæ Scotorum reginæ epitaphiumHercusanus, Joannes.1587Approx. 1 KB of XML-encoded text transcribed
+
+1. MARIAE
+SCOTORVM REGINAE
+EPITAPHIVM.
+
 #####Back#####
-Mariæ Scotorum reginæ epitaphiumHercusanus, Joannes.1587Approx. 1 KB of XML-encoded text transcribed
+LONDINI
+Excudebat Joannes Charlewood.
+pro Roberto VVallie.
 **Types of content**
 
   * There are 16 **verse** lines!
